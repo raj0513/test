@@ -1,0 +1,67 @@
+{
+  "exam": {
+      "title": "Sample Exam",
+      "questions": [
+          {
+              "id": 1,
+              "text": "Which one is an example for OS?",
+              "options": [
+                  { "label": "A", "text": "Anivirus", "value": "A" },
+                  { "label": "B", "text": "Windows", "value": "B" },
+                  { "label": "C", "text": "MS Office", "value": "C" },
+                  { "label": "D", "text": "Game", "value": "D" }
+              ]
+          },
+          {
+              "id": 2,
+              "text": "Which control panel applet gives the info of computer?",
+              "options": [
+                  { "label": "A", "text": "System & security", "value": "A" },
+                  { "label": "B", "text": "Hardware & sound", "value": "B" },
+                  { "label": "C", "text": "Program", "value": "C" },
+                  { "label": "D", "text": "Appearance", "value": "D" }
+              ]
+          },
+          {
+              "id": 3,
+              "text": "What is the extension of notepad file?",
+              "options": [
+                  { "label": "A", "text": "fil", "value": "A" },
+                  { "label": "B", "text": "dil", "value": "B" },
+                  { "label": "C", "text": "doc", "value": "C" },
+                  { "label": "D", "text": "txt", "value": "D" }
+              ]
+          },
+          {
+              "id": 4,
+              "text": "Name the shortcut key used to open start menu.",
+              "options": [
+                  { "label": "A", "text": "Windows logo", "value": "A" },
+                  { "label": "B", "text": "Ctrl", "value": "B" },
+                  { "label": "C", "text": "Shift", "value": "C" },
+                  { "label": "D", "text": "Alt", "value": "D" }
+              ]
+          },
+          {
+              "id": 5,
+              "text": "Which shortcut key used to copy and paste a file folder?",
+              "options": [
+                  { "label": "A", "text": "ctrl + x & ctrl + v", "value": "A" },
+                  { "label": "B", "text": "ctrl + a & ctrl + v", "value": "B" },
+                  { "label": "C", "text": "ctrl + z & ctrl + v", "value": "C" },
+                  { "label": "D", "text": "ctrl + c & ctrl + v", "value": "D" }
+              ]
+          },
+          {
+              "id": 6,
+              "text": "Which shortcut key used to cut the file?",
+              "options": [
+                  { "label": "A", "text": "ctrl + x", "value": "A" },
+                  { "label": "B", "text": "ctrl + a", "value": "B" },
+                  { "label": "C", "text": "ctrl + z", "value": "C" },
+                  { "label": "D", "text": "ctrl + c", "value": "D" }
+              ]
+          }
+      ]
+  }
+}
